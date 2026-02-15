@@ -2,7 +2,7 @@
 A simple Telegram bot that shows user info and bot details made using python.
 <br>
 
-# Setup:
+# 💻 Setup:
 
 **1. Clone this repo**
 ```bash
@@ -27,15 +27,17 @@ pip install -r requirements.txt
 BOT_TOKEN=your_token_here
 ```
 
-# Bot Commands:
+# 🛠️ Bot Commands:
 
 - `/start` — Welcome message
 - `/me` — Show your user info
 - `/about` — Bot details
 - `/help` — Help menu
 
-# Developer
+# 😎 Developer
 
-👤 Developed by Om
-🤖 Bot: @isthisme_bot 
-🔗 Telegram: @unseen_crafts
+👤 <b>Developed by Om</b>
+<br>
+🤖 <b>Bot:</b> @isthisme_bot
+<br>
+🔗 <b>Telegram:</b> @unseen_crafts
