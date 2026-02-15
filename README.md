@@ -3,5 +3,5 @@ User info telegram bot using python
 <br>
 # Bot Commands
 
-- `/retry` – Regenerate last bot answer
+- `/me` – Show user basic info
 - `/help` – Show help
