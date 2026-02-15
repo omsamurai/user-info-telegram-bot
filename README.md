@@ -27,6 +27,13 @@ pip install -r requirements.txt
 BOT_TOKEN=your_token_here
 ```
 
+**5. Run bot:**
+```bash
+python bot.py
+```
+
+**6. You can stop bot by pressing `CTRL + C` or `CTRL + Z`**
+
 # 🛠️ Bot Commands:
 
 - `/start` — Welcome message
